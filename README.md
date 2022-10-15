@@ -1,4 +1,4 @@
 # Coding More Secure
-the simple way
+coding more secure - the simple way
 
 by: Pentest Team - VI* Security
